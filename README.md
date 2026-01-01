@@ -81,12 +81,12 @@ The project leverages powerful ensemble-based models:
 ---
 
 ## 📁 Project Structure  
-House-Price-Prediction/
-│
-├── Data/
-│ └── House_price_dataset.csv
-├── houserent_gridsearch.ipynb
-├── README.md
+House-Price-Prediction/    
+│   
+├── Data/   
+│ └── House_price_dataset.csv   
+├── README.md   
+├── houserent_gridsearch.ipynb   
 
 ---
 
